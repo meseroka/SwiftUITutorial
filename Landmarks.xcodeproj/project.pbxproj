@@ -15,6 +15,7 @@
 		F1ED8A7E2CE290BA0016173A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F1ED8A742CE290BA0016173A /* Assets.xcassets */; };
 		F1ED8A862CE291FF0016173A /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED8A852CE291FF0016173A /* ModelData.swift */; };
 		F1ED8A912CE2B3160016173A /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED8A902CE2B3160016173A /* LandmarkRow.swift */; };
+		F1ED8A9C2CE2BFF70016173A /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1ED8A9B2CE2BFF70016173A /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		F1ED8A782CE290BA0016173A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		F1ED8A852CE291FF0016173A /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		F1ED8A902CE2B3160016173A /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		F1ED8A9B2CE2BFF70016173A /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -131,6 +133,7 @@
 				F1ED8A762CE290BA0016173A /* ContentView.swift */,
 				F1ED8A752CE290BA0016173A /* CircleImage.swift */,
 				F1ED8A902CE2B3160016173A /* LandmarkRow.swift */,
+				F1ED8A9B2CE2BFF70016173A /* LandmarkList.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 				F1C03B712CDD460B00530078 /* Landmark.swift in Sources */,
 				F1ED8A792CE290BA0016173A /* CircleImage.swift in Sources */,
 				F1ED8A7A2CE290BA0016173A /* ContentView.swift in Sources */,
+				F1ED8A9C2CE2BFF70016173A /* LandmarkList.swift in Sources */,
 				F1ED8A7C2CE290BA0016173A /* MapView.swift in Sources */,
 				F1ED8A912CE2B3160016173A /* LandmarkRow.swift in Sources */,
 				F1ED8A862CE291FF0016173A /* ModelData.swift in Sources */,
