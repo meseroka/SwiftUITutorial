@@ -64,11 +64,6 @@
 			path = LandmarksUITests;
 			sourceTree = "<group>";
 		};
-		F1ED8A962CE2B67D0016173A /* Preview Content */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Preview Content";
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,7 +102,6 @@
 				F1ED8A702CE290BA0016173A /* LandmarksTests.xctest */,
 				F1ED8A712CE290BA0016173A /* LandmarksUITests.xctest */,
 				F1ED8A742CE290BA0016173A /* Assets.xcassets */,
-				F1ED8A962CE2B67D0016173A /* Preview Content */,
 				F1C03AE12CDBFB2900530078 /* LandmarksTests */,
 				F1C03AEB2CDBFB2900530078 /* LandmarksUITests */,
 			);
@@ -158,7 +152,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				F1C03AD02CDBFB2700530078 /* Landmarks */,
-				F1ED8A962CE2B67D0016173A /* Preview Content */,
 			);
 			name = Landmarks;
 			packageProductDependencies = (
