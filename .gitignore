@@ -1,0 +1,82 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+!default.xcworkspace
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+.build/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/*.lock
+
+# Archives
+*.xcarchive
+
+# Symbols
+*.dSYM.zip
+*.bcsymbolmap
+*.dSYM
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftUI previews
+.swiftui/
+
+# App files
+*.ipa
+*.app
+
+# Provisioning Profiles
+*.mobileprovision
+*.provisionprofile
+
+# Core Data
+*.xccheckout
+*.moved-aside
+*.xccrashpoint
+*.xccrashpointstate
+
+# Device support files
+*.simruntime
+
+# Xcode specific settings
+*.xcsettings
+.xcconfig
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# iCloud files
+*.icloud
+
+# Personal settings
+*.swp
+*~
+
+# Lock Files
+Package.resolved
+
